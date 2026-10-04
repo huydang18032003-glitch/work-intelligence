@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "80/20 Work Intelligence",
+  "short_name": "80/20 Work",
+  "description": "Personal work, learning, energy and goal intelligence",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a172a",
+  "theme_color": "#0a172a",
+  "icons": [
+    {"src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
